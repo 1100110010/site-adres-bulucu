@@ -1,0 +1,1 @@
+hey, beni kullanmadan önce ip2geotools python kütüphanesini indir pls.
